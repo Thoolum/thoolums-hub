@@ -3,7 +3,7 @@ export default function ModpackPortal() {
     {
       title: 'Sarsparilla Edition',
       desc: 'Primary modpack with all required mods and configs.',
-      version: 'v1.0.0',
+      version: 'v1.0.1',
       link: 'https://drive.proton.me/urls/DW7QZKJHM4#qlMO9qy552Za',
       icon: '🍺'
     },
